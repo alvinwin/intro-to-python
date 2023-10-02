@@ -12,4 +12,4 @@ print(f'these are the middle three letters after using slice: {middle_three_lett
 
 # use a slice to print out any three letters from the middle of your list
 large_slice = alphabet[2:-1]
-print(f'these is a slice from index 2 to -1: {large_slice}')
+print(f'this is a slice from index 2 to -1: {large_slice}')
